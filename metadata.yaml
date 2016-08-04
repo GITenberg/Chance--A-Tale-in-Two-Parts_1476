@@ -1,0 +1,58 @@
+_repo: Chance--A-Tale-in-Two-Parts_1476
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "Chance is a novel by Joseph Conrad, published in 1913 following serial\
+  \ publication the previous year. Although the novel was not one upon which Conrad's\
+  \ later critical reputation was to depend, it was his greatest commercial success\
+  \ upon initial publication.\nChance is narrated by Conrad's regular narrator, Charles\
+  \ Marlow, but is characterised by a complex, nested narrative in which different\
+  \ narrators take up the story at different points. The novel is also unusual among\
+  \ its author's works for its focus on a female character: the heroine, Flora de\
+  \ Barral.\nThe narrators describe and attempt to interpret various episodes in the\
+  \ life of Miss de Barral, the daughter of a convicted swindler named Smith de Barral\
+  \ (though this character is famous in the world of the novel as a criminal, he may,\
+  \ at least at first, have been merely an incompetent banker). Miss de Barral leads\
+  \ a sheltered life while her father is prosperous, then must rely on the generosity\
+  \ of others, who resent her or have agendas for her, before she escapes by marrying\
+  \ one Captain Anthony. Much of the book involves the musing of the various narrators\
+  \ over what she and the Captain expected from this union, and what they actually\
+  \ got from it. When her father is released from prison, he joins them on ship, and\
+  \ the book heads towards its denouement.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1476'
+  wikidata: Q793748
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ship captains'' spouses -- Fiction'
+- !lcsh 'Children of prisoners -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Love stories'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: 'Chance: A Tale in Two Parts'
+url: http://www.gutenberg.org/ebooks/1476
+wikipedia:
+- https://fr.wikipedia.org/wiki/Fortune_(roman)
+- https://en.wikisource.org/wiki/Chance_(novel)
+- https://de.wikipedia.org/wiki/Spiel_des_Zufalls
+- https://en.wikipedia.org/wiki/Chance_(novel)
+- https://it.wikipedia.org/wiki/Destino_(Conrad)
