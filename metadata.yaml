@@ -1,5 +1,8 @@
 _repo: Chance--A-Tale-in-Two-Parts_1476
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -29,6 +32,8 @@ description: "Chance is a novel by Joseph Conrad, published in 1913 following se
   \ over what she and the Captain expected from this union, and what they actually\
   \ got from it. When her father is released from prison, he joins them on ship, and\
   \ the book heads towards its denouement.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1476#Chance--A-Tale-in-Two-Parts
 gutenberg_issued: '1998-09-01'
 gutenberg_type: Text
 identifiers:
